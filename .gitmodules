@@ -1,0 +1,3 @@
+[submodule "asylex-crawler"]
+	path = asylex-crawler
+	url = git@github.com:markxio/asylex-crawler.git
